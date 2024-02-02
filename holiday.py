@@ -27,7 +27,7 @@ def main() -> None:
     print(f"{'*'*30}{bold_text('holiday.py')}{'*'*30}")
     print_line(char="=")
     city_data = load_json("cities.json")
-    print(type(city_data))
+    print(city_data)
     city_flight = get_city_flight()
     print(f"You chose to fly to {city_flight}!")
     print("How many nights will you be needing a hotel for?")
