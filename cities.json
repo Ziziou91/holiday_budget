@@ -2,41 +2,49 @@
     "Agra" : {
         "flight_cost" : 650,
         "hotels" : {
-            "three_star" : 35,
-            "four_star" : 65,
-            "five_star" : 105
+            "three_stars" : 35,
+            "four_stars" : 65,
+            "five_stars" : 105
         }
     },
     "Chicago" : {
         "flight_cost" : 850,
         "hotels" : {
-            "three_star" : 40,
-            "four_star" : 85,
-            "five_star" : 160
+            "three_stars" : 40,
+            "four_stars" : 85,
+            "five_stars" : 160
         }
     },
     "Lisbon" : {
         "flight_cost" : 175,
         "hotels" : {
-            "three_star" : 50,
-            "four_star" : 75,
-            "five_star" : 120
+            "three_stars" : 50,
+            "four_stars" : 75,
+            "five_stars" : 120
         }
     },
     "Nairobi" : {
         "flight_cost" : 750,
         "hotels" : {
-            "three_star" : 25,
-            "four_star" : 50,
-            "five_star" : 95
+            "three_stars" : 25,
+            "four_stars" : 50,
+            "five_stars" : 95
         }
     },
     "Seoul" : {
         "flight_cost" : 1100,
         "hotels" : {
-            "three_star" : 45,
+            "three_stars" : 45,
+            "four_stars" : 85,
+            "five_stars" : 195
+        }
+    },
+    "Vienna" : {
+        "flight_cost" : 250,
+        "hotels" : {
+            "three_star" : 35,
             "four_star" : 85,
-            "five_star" : 195
+            "five_star" : 200
         }
     }
 }
